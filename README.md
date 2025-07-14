@@ -19,7 +19,7 @@ and cross-functional collaboration in Agile teams.
 
 - API
 
-  > Node.js, Express, Python, Django, Flask, FastAPI, GraphQL, MySQL, MongoDB, Firebase
+  > Node.js, Express, Python, Django, Flask, FastAPI, PHP, GraphQL, MySQL, MongoDB, Firebase
 
 - Front-end
 
